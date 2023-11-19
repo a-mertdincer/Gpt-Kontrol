@@ -1,6 +1,6 @@
-# Bulut Bilişim Kampı 2023 Sonu Proje Deposu
+# Bulut Bilişim Kampı 2023 Sonu Proje Reposu
 
-## Cloud Computing Camp 2023 Bitiş Projesi
+## Cloud Computing Camp 2023 Bitirme Projesi
 
 Hoş geldiniz! Bu depo, Cloud Computing Camp 2023 kapsamında geliştirilen son proje için bir kaynaktır. Projem, katılımcıların GPT-API entegrasyonu ile Bulut Bilişimciler platformundaki senaryoların kontrolünü gerçekleştirmelerine yardımcı olmayı hedeflemektedir. İşte projemiz hakkında daha fazla bilgi:
 
